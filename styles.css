@@ -1,0 +1,17 @@
+.container{
+    margin-bottom: 65px;
+}
+.orange-bg{
+    background-color: #d1ee2e81;
+    border-radius: 10px;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
